@@ -27,7 +27,7 @@ End Code
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
                 <h2>Hello!</h2>
-                <h3>May 14th 2021: Norfolk , UK</h3>
+                <h3>May 08th 2021 - Norfolk , UK</h3>
 
                 <p>We are inviting you to celebrate our wedding</p>
             </div>
@@ -74,31 +74,31 @@ End Code
                                 <h3>Main Ceremony</h3>
                                 <div class="event-col">
                                     <i class="icon-clock"></i>
-                                    <span>4:00 PM</span>
-                                    <span>6:00 PM</span>
+                                    <span>13:00 PM</span>
+                                    <span>15:00 PM</span>
                                 </div>
                                 <div class="event-col">
                                     <i class="icon-calendar"></i>
-                                    <span>Monday 28</span>
-                                    <span>November, 2016</span>
+                                    <span>Saturday 08</span>
+                                    <span>May, 2021</span>
                                 </div>
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                                <p>Our wedding ceremony commence at 14:00. Guests are invited to arrive from 13:00 onwards.</p>
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6 text-center">
                             <div class="event-wrap animate-box">
-                                <h3>Wedding Party</h3>
+                                <h3>Wedding Breakfast</h3>
                                 <div class="event-col">
                                     <i class="icon-clock"></i>
-                                    <span>7:00 PM</span>
-                                    <span>12:00 AM</span>
+                                    <span>17:00 PM</span>
+                                    <span>00:00 AM</span>
                                 </div>
                                 <div class="event-col">
                                     <i class="icon-calendar"></i>
                                     <span>Monday 28</span>
                                     <span>November, 2016</span>
                                 </div>
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                                <p>Wedding Breakfast will commence at 17:00 followed by much dancing and drinking.</p>
                             </div>
                         </div>
                     </div>
@@ -114,21 +114,21 @@ End Code
             <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
                 <span>We Love Each Other</span>
                 <h2>Our Story</h2>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                <p>First met in 2014. We were always destined to be together,</p>
             </div>
         </div>
         <div class="row">
             <div class="col-md-12 col-md-offset-0">
                 <ul class="timeline animate-box">
                     <li class="animate-box">
-                        <div class="timeline-badge" style="background-image:url(images/couple-1.jpg);"></div>
+                        <div class="timeline-badge" style="background-image:url(/images/first_date.png);"></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h3 class="timeline-title">First We Meet</h3>
-                                <span class="date">December 25, 2015</span>
+                                <h3 class="timeline-title">First Date</h3>
+                                <span class="date">November, 2014</span>
                             </div>
                             <div class="timeline-body">
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                                <p>Our first date. James took Chamaale to play some pool. Both parties warned friends they would be back quick and it wouldn't go well.</p>
                             </div>
                         </div>
                     </li>
@@ -136,23 +136,23 @@ End Code
                         <div class="timeline-badge" style="background-image:url(images/couple-2.jpg);"></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h3 class="timeline-title">First Date</h3>
-                                <span class="date">December 28, 2015</span>
+                                <h3 class="timeline-title">Making It Official</h3>
+                                <span class="date">Feb, 2015</span>
                             </div>
                             <div class="timeline-body">
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                                <p>James and Chamaale became official. James blurted he loved Chamaale after a day out and an ackward conversation persued.</p>
                             </div>
                         </div>
                     </li>
                     <li class="animate-box">
-                        <div class="timeline-badge" style="background-image:url(images/couple-3.jpg);"></div>
+                        <div class="timeline-badge" style="background-image:url(/images/proposal.png);"></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h3 class="timeline-title">In A Relationship</h3>
-                                <span class="date">January 1, 2016</span>
+                                <h3 class="timeline-title">Engagement</h3>
+                                <span class="date">Decemeber 12, 2019</span>
                             </div>
                             <div class="timeline-body">
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                                <p>After many years and many questions from family, James finally got down on one knee and popped the question whilst away for a weekend in York.</p>
                             </div>
                         </div>
                     </li>
@@ -257,7 +257,7 @@ End Code
         </div>
     </div>
 </div>
-
+<!--
 <div id="fh5co-counter" class="fh5co-bg fh5co-counter" style="background-image:url(images/img_bg_5.jpg);">
     <div class="overlay"></div>
     <div class="container">
@@ -310,7 +310,7 @@ End Code
         </div>
     </div>
 </div>
-
+-->
 <div id="fh5co-testimonial">
     <div class="container">
         <div class="row">
@@ -364,7 +364,7 @@ End Code
         </div>
     </div>
 </div>
-
+<!--
 <div id="fh5co-services" class="fh5co-section-gray">
     <div class="container">
 
@@ -454,7 +454,7 @@ End Code
         </div>
     </div>
 </div>
-
+-->
 
 <div class="gototop js-top">
     <a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
