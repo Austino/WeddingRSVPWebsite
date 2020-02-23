@@ -3,12 +3,12 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Chamaale and James Wedding 2021</title>
+    <title>@ViewBag.Title - Chamaale and James Wedding 2021</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Chamaale Dooldeniya and James Austin Wedding 2021" />
     <meta name="keywords" content="James Austin Chamaale Dooldeniya Wedding 20201" />
     <meta name="author" content="James Austin" />
-    <link rel="icon" type="image/png" href="~/images/">
+    <link rel="icon" type="image/png" href="~/images/favicon.png">
 
     <link href='https://fonts.googleapis.com/css?family=Work+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'>
     <link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
